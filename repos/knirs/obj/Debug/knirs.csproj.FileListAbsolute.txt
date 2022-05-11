@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\knirs\bin\Debug\knirs.exe.config
+C:\Users\hp\source\repos\knirs\bin\Debug\knirs.exe
+C:\Users\hp\source\repos\knirs\bin\Debug\knirs.pdb
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.InputForm.resources
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.Properties.Resources.resources
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.exe
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.pdb
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.MatrixForm.resources
+C:\Users\hp\source\repos\knirs\obj\Debug\knirs.Form3.resources
